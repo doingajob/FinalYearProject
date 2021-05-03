@@ -1,2 +1,2 @@
 # FinalYearProject
-Code to Final Year Project - Polyp Detection and Segmetation
+Code to Final Year Project - Polyp Detection and Segmentation
